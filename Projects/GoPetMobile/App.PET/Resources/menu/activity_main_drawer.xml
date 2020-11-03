@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_toWalk"
+            android:icon="@drawable/ic_menu_send"
+            android:title="A pasear" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Buscame" />
+        <item
+            android:id="@+id/nav_appointment"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Mis Consultas" />
+      <item
+            android:id="@+id/nav_payment"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Pagos" />
+        <item
+            android:id="@+id/nav_configuration"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Configuracion" />
+    </group>
+
+    <item android:title="Comunicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Compartir" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contactanos" />
+        </menu>
+    </item>
+
+</menu>

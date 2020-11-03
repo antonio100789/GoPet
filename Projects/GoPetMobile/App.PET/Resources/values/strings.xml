@@ -1,0 +1,12 @@
+<resources>
+  <string name="app_name">Go Pet</string>
+  <string name="navigation_drawer_open">Open navigation drawer</string>
+  <string name="navigation_drawer_close">Close navigation drawer</string>
+  <string name="action_settings">Settings</string>
+  <string name="nav_camera">Nav Camera</string>
+  <string name="nav_gallery">Nav Galery</string>
+  <string name="nav_slideshow">Nav Slideshow</string>
+  <string name="nav_manage">Nav Manage</string>
+  <string name="nav_share">Nav Share</string>
+  <string name="nav_send">Nav Send</string>
+</resources>
