@@ -19,6 +19,7 @@
     <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
     <!-- Necessary for apps that target Android 9.0 or higher -->
     <uses-library android:name="org.apache.http.legacy" android:required="false" />
+    <activity android:label="InsertAppointmentActivity" android:name="md58476e80055cadd54d58f03a4d9ab05be.InsertAppointmentActivity" />
     <activity android:label="AppointmentActivity" android:name="md58476e80055cadd54d58f03a4d9ab05be.AppointmentActivity" />
     <activity android:label="ConfigurationActivity" android:name="md58476e80055cadd54d58f03a4d9ab05be.ConfigurationActivity" />
     <activity android:label="ContactActivity" android:name="md58476e80055cadd54d58f03a4d9ab05be.ContactActivity" />
